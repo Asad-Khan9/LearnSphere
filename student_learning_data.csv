@@ -1,0 +1,31 @@
+student_case,subject_area,learning_style,technique_used,pre_score,post_score,improvement_percent,engagement_level,comprehension_rating,retention_test_score
+Case-01,Data Structures,Visual,Feynman,65.4,75.2,15.0,8.5,9.0,73.5
+Case-01,Data Structures,Visual,Leitner,65.4,72.1,10.2,7.8,8.2,70.3
+Case-01,Data Structures,Visual,Pomodoro,65.4,70.5,7.8,7.2,7.8,68.8
+Case-02,Algorithms,Kinesthetic,Feynman,58.7,68.4,16.5,8.7,8.9,67.2
+Case-02,Algorithms,Kinesthetic,Leitner,58.7,65.6,11.8,7.5,7.8,64.4
+Case-02,Algorithms,Kinesthetic,Pomodoro,58.7,63.2,7.7,6.8,7.2,61.5
+Case-03,Database Systems,Auditory,Feynman,71.2,82.5,15.9,8.9,9.2,79.8
+Case-03,Database Systems,Auditory,Leitner,71.2,78.4,10.1,7.6,8.0,75.3
+Case-03,Database Systems,Auditory,Pomodoro,71.2,75.1,5.5,7.0,7.5,72.6
+Case-04,OOP Concepts,Reading,Feynman,62.8,73.7,17.4,8.4,8.7,71.5
+Case-04,OOP Concepts,Reading,Leitner,62.8,69.8,11.1,7.2,7.6,67.9
+Case-04,OOP Concepts,Reading,Pomodoro,62.8,67.5,7.5,6.5,7.0,65.4
+Case-05,Network Security,Visual,Feynman,68.9,79.8,15.8,8.8,9.1,77.7
+Case-05,Network Security,Visual,Leitner,68.9,75.2,9.1,7.4,7.9,73.5
+Case-05,Network Security,Visual,Pomodoro,68.9,72.8,5.7,6.9,7.4,70.2
+Case-06,ML Fundamentals,Kinesthetic,Feynman,55.4,65.2,17.7,8.6,8.8,63.4
+Case-06,ML Fundamentals,Kinesthetic,Leitner,55.4,62.5,12.8,7.3,7.7,60.8
+Case-06,ML Fundamentals,Kinesthetic,Pomodoro,55.4,60.1,8.5,6.7,7.1,58.5
+Case-07,Software Design,Reading,Feynman,64.5,74.4,15.3,8.7,9.0,72.9
+Case-07,Software Design,Reading,Leitner,64.5,71.2,10.4,7.5,7.9,69.4
+Case-07,Software Design,Reading,Pomodoro,64.5,68.8,6.7,6.8,7.3,66.2
+Case-08,Cloud Computing,Auditory,Feynman,59.8,70.5,17.9,8.5,8.8,68.7
+Case-08,Cloud Computing,Auditory,Leitner,59.8,67.2,12.4,7.4,7.8,65.9
+Case-08,Cloud Computing,Auditory,Pomodoro,59.8,64.8,8.4,6.6,7.2,62.1
+Case-09,OS Concepts,Visual,Feynman,67.3,78.1,16.0,8.8,9.1,76.8
+Case-09,OS Concepts,Visual,Leitner,67.3,74.4,10.5,7.6,8.0,72.2
+Case-09,OS Concepts,Visual,Pomodoro,67.3,71.9,6.8,7.0,7.5,69.6
+Case-10,Web Development,Kinesthetic,Feynman,61.5,71.8,16.7,8.6,8.9,69.9
+Case-10,Web Development,Kinesthetic,Leitner,61.5,68.7,11.7,7.3,7.7,66.8
+Case-10,Web Development,Kinesthetic,Pomodoro,61.5,66.2,7.6,6.7,7.2,64.5
